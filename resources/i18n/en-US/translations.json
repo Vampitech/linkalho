@@ -27,7 +27,7 @@
         "complete": "Accounts unlinked!"
     },
     "country_select_view": {
-        "title": "选择关联账户的国家/地区"
+        "title": "Select country for linked accounts"
     },
     "account_select_view": {
         "title": "选择要关联/取消关联的账户",
