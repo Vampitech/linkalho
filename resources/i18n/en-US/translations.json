@@ -30,14 +30,14 @@
         "title": "Select country for linked accounts"
     },
     "account_select_view": {
-        "title": "Select accounts to link/unlink",
-        "select_all": "Select all",
-        "unselect_all": "Unselect all",
-        "selected_count": "{}/{} selected",
-        "extra_info": "Found {} account{}\nReboot to payload {}",
-        "reboot_payload_disabled": "disabled",
-        "reboot_payload_inactive": "inactive ({} not found)",
-        "reboot_payload_active": "active"
+        "title": "选择要关联/取消关联的账户",
+        "select_all": "全选",
+        "unselect_all": "取消全选",
+        "selected_count": "已选择 {}/{}",
+        "extra_info": "找到 {} 个账户\n重启到Payload {}",
+        "reboot_payload_disabled": "已禁用",
+        "reboot_payload_inactive": "未激活（未找到 {}）",
+        "reboot_payload_active": "已激活"
     },
     "account_list_item": {
         "linked": "已关联",
