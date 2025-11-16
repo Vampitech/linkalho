@@ -15,10 +15,10 @@
         "complete": "备份已创建！"
     },
     "link_accounts_view": {
-        "title": "关联所选账户",
-        "warning": "关联账户将覆盖之前的所有关联。\n（你的存档会被保留）\n\n如果所选账户存在 NNID 关联，它也将被覆盖！",
-        "working": "正在关联…",
-        "complete": "账户已关联！"
+        "title": "Link selected accounts",
+        "warning": "Linking accounts will overwrite all previous links.\n(Your saves will be preserved)\n\nIf any of the selected accounts had a NNID link, it will be overwritten!",
+        "working": "Linking...",
+        "complete": "Accounts linked!"
     },
     "unlink_accounts_view": {
         "title": "取消关联所选账户",
