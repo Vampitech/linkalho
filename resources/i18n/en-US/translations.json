@@ -40,16 +40,16 @@
         "reboot_payload_active": "active"
     },
     "account_list_item": {
-        "linked": "已关联",
-        "not_linked": "未关联"
+        "linked": "Linked",
+        "not_linked": "Not linked"
     },
     "confirm_view": {
-        "continue": "继续",
-        "back": "返回",
-        "reboot": "重启",
-        "reboot_to_payload": "重启到Payload"
+        "continue": "Continue",
+        "back": "Back",
+        "reboot": "Reboot",
+        "reboot_to_payload": "Reboot to payload"
     },
     "errors": {
-        "no_accounts_selected": "未选择任何账户！"
+        "no_accounts_selected": "No accounts selected!"
     }
 }
