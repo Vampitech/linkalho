@@ -1,12 +1,12 @@
 {
     "restore_backup_view": {
-        "title": "恢复备份",
-        "not_found_dialog_hint": "未找到备份文件！",
-        "not_found_dialog_text": "要执行恢复，请将备份文件放入\n{}\n\n请确保备份有效，因为它将覆盖主机的分区文件，可能导致 Switch 无法启动！",
-        "not_found_dialog_btn": "关闭",
-        "warning": "恢复该备份将覆盖所有相关文件！\n（你的存档会被保留）\n\n请确保备份有效，因为它将覆盖主机的分区文件，可能导致 Switch 无法启动！",
-        "working": "正在恢复…",
-        "complete": "备份已恢复！"
+        "title": "Restore backup",
+        "not_found_dialog_hint": "Restore file not found!",
+        "not_found_dialog_text": "To restore, please place your backup file into\n{}\n\nMake sure the backup is valid as it will overwrite the console's partition files and might cause your Switch to stop booting!",
+        "not_found_dialog_btn": "close",
+        "warning": "Restoring this backup WILL overwrite all files!\n(Your saves will be preserved)\n\nMake sure the backup is valid as it will overwrite the console's partition files and might cause your Switch to stop booting!",
+        "working": "Restoring...",
+        "complete": "Backup restored!"
     },
     "create_backup_view": {
         "title": "手动创建备份",
