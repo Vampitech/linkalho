@@ -9,10 +9,10 @@
         "complete": "Backup restored!"
     },
     "create_backup_view": {
-        "title": "手动创建备份",
-        "warning": "所有的关联/取消关联操作都会在更改前自动创建备份！\n\n仅当你需要手动创建备份时才使用此选项。",
-        "working": "正在备份…",
-        "complete": "备份已创建！"
+        "title": "Create manual backup",
+        "warning": "All linking and unlinking operations will produce a backup before making changes!\n\nYou should only use this option if you want to manually create a backup.",
+        "working": "Backing up...",
+        "complete": "Backup created!"
     },
     "link_accounts_view": {
         "title": "Link selected accounts",
