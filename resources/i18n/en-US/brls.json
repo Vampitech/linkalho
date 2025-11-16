@@ -6,11 +6,12 @@
     },
 
     "crash_frame": {
-        "button": "确认"
+        "button": "OK"
     },
 
     "thumbnail_sidebar": {
-        "save": "保存"
+        "save": "Save"
     }
 }
+
 
