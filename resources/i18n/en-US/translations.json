@@ -21,10 +21,10 @@
         "complete": "Accounts linked!"
     },
     "unlink_accounts_view": {
-        "title": "取消关联所选账户",
-        "warning": "取消关联会更改用户账户状态。\n（你的存档会被保留）\n\n如果所选账户存在 NNID 关联，它将被移除！",
-        "working": "正在取消关联…",
-        "complete": "账户已取消关联！"
+        "title": "Unlink selected accounts",
+        "warning": "Unlinking will change users accounts.\n(Your saves will be preserved)\n\nIf any of the selected accounts had a NNID link, it will be erased!",
+        "working": "Uninking...",
+        "complete": "Accounts unlinked!"
     },
     "country_select_view": {
         "title": "选择关联账户的国家/地区"
