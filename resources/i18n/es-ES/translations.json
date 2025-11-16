@@ -1,0 +1,55 @@
+{
+    "restore_backup_view": {
+        "title": "Restaurar backup",
+        "not_found_dialog_hint": "Archivo de restauración no encontrado",
+        "not_found_dialog_text": "Para restaurar, por favor copie el backup en\n{}\n\nAsegurese de que el backup sea válido ya que sobreescribirá archivos en la partición de sistema y esto puede hacer que su cosola no inicie!",
+        "not_found_dialog_btn": "cerrar",
+        "warning": "Restaurando este backup sobreescribirá TODOS los archivos!\n(Sus Saves permanecerán intactos)\n\nAsegurese de que el backup sea válido ya que sobreescribirá archivos en la partición de sistema y esto puede hacer que su cosola no inicie!!",
+        "working": "Restaurando...",
+        "complete": "Backup restaurado!"
+    },
+    "create_backup_view": {
+        "title": "Crear backup manual",
+        "warning": "Todas las operaciones de vincular y desvincular crearán un backup antes de hacer cambios!\n\nDebe usar esta opción su si deseo es crear un backup manual.",
+        "working": "Creando Backup...",
+        "complete": "Backup creado!"
+    },
+    "link_accounts_view": {
+        "title": "Vinculas cuentas seleccionadas",
+        "warning": "Vincular cuentas anulará vinculaciones anteriores.\n(Sus saves quedarán intactos)\n\nSi las cuentas seleccionadas tienen vinculo NNID, será sobreescrito!",
+        "working": "Vinculando...",
+        "complete": "Cuentas vinculadas!"
+    },
+    "unlink_accounts_view": {
+        "title": "Desvincular cuentas seleccionadas",
+        "warning": "Desvincular cambiará su cuenta de usuario.\n(Sus saves quedarán intactis)\n\nSi la cuentas seleccionada tienen vinculo NNID, será borrado!",
+        "working": "Desvinculando...",
+        "complete": "Cuenta desvinculada!"
+    },
+    "country_select_view": {
+        "title": "Seleccione país para las cuentas vinculadas"
+    },
+    "account_select_view": {
+        "title": "Seleccione cuentas para vincular/desvincular",
+        "select_all": "Seleccionar Todo",
+        "unselect_all": "Deseleccionar Todo",
+        "selected_count": "{}/{} seleccionados",
+        "extra_info": "{} cuenta encontrada {}\nReboot to payload {}",
+        "reboot_payload_disabled": "deshabilitado",
+        "reboot_payload_inactive": "Inactivo ({} no encontrado)",
+        "reboot_payload_active": "activo"
+    },
+    "account_list_item": {
+        "linked": "Vinculada",
+        "not_linked": "Not vincula"
+    },
+    "confirm_view": {
+        "continue": "Continuar",
+        "back": "Volver",
+        "reboot": "Reinicar",
+        "reboot_to_payload": "Reboot to payload"
+    },
+    "errors": {
+        "no_accounts_selected": "No hay cuentas seleccionadas"
+    }
+}
